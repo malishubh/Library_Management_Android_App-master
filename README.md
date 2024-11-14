@@ -19,14 +19,6 @@ This App is not live at the moment and won't work off the shelf.
 * [Firebase Authentication](https://firebase.google.com/products/auth) : Used to maintain Accounts and perform Login and Signup Actions.
 * [cron-job.org](https://cron-job.org/en/): Used for scheduling Cloud Functions through HTTPS Requests.
 
-## Contributing
-You are welcome to contribute :
-
-1. Fork it (https://github.com/rohanrao619/Library_Management_Android_App/fork)
-2. Create new branch : `git checkout -b new_feature`
-3. Commit your changes : `git commit -am 'Added new_feature'`
-4. Push to the branch : `git push origin new_feature`
-5. Submit a pull request !
 
 ## Future Work
 * UI Improvement and Optimization
